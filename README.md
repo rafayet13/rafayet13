@@ -1,9 +1,6 @@
 ### Hi, This Is Rafayet Hossain, A Business Analyst (BSA), And an SQA.
-Having Around 04 Years of Professional Experience, Playing Various Roles in The Software Industry, Makes Him a Top Candidate in This Sector. Also, He Has Practical Knowledge in Web Design & Development, Which Shows His Versatility and Passion Towards Information Technology.
 
-☑ As a Business Analyst, He Plays the Role of a Change Agent in Order to Enable Changes for Your Organization. It’s His Solemn Duty to Guide the Project from a Very Beginning Through the Whole Development Process to Finishing Stages. His Bachelor Degree in Computer Science & Engineering Including Extensive Knowledge of Business Processes, Technologies, and Best Development Practices Would be a Perfect Fit to Assist You with Ventures of Pretty Much Any Complexity.
+## For Any Query & Services Reach Me Through
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafayet13/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rafayet13@gmail.com)
 
-☑ He Opted for Software Testing as a Career Not Because He Got the Opportunity to Work Rather, He Believes Software Testing as "Destructive Creation" Also Enjoy Finding Issues. He Can Help You in Implementing Test Processes, QA Documentation and Can Provide End to End Solutions on All Types of Testing. "Has An Attitude of “Test to Break", "Ability to Think as End User Perspective” "A Strong Desire for Quality, And An Attention to Detail.
-
-He Excel in The Fields are as Follows But not Limited to:
-☑ System Analysis & Design ☑ Technical Documentation ☑ Software Quality Assurance ☑ Lean Six Sigma ☑ Requirement Elicitation ☑ Business Process Modeling (Map "As-Is" And "To-Be" Business Processes) Using BPMN ☑ Requirement Management ☑ Software Requirement Specification (SRS, BRD) Development ☑ UI Wireframing ☑ Software Test Document Preparation & Test Execution ☑ User Manual & End User Training ☑ Change Management ☑ Quality Improvement ☑ Microsoft Office (Word, Excel, PowerPoint, Visio) ☑ Project Management ☑ Software Process Quality Improvement ☑ Have Good Oral And Written Communication Skills ☑ Time Management ☑ Trained In Soft Skills - Business Etiquette, Communication, And Negotiation Skills ☑ Quality Framework: CMMI, ISO ☑ SDLC & STLC ☑ Root Cause Analysis ☑ 5 Why Technique ☑ SMART Requirement Preparation ☑ Crisis Handling ☑ Quality Tools ☑ Continuous Improvement ☑ Critical Thinking
